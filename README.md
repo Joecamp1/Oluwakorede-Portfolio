@@ -2,7 +2,8 @@
 
 ## 📖 ABOUT
 WELCOME
-Here is my personal github profile to showcase projects and tools I have worked with. Solving real problems with data analysis, data visualization and reporting/storytelling.
+
+> Here is my personal github profile to showcase projects and tools I have worked with. Solving real problems with data analysis, data visualization and reporting/storytelling.
 
 ## 📊 PORTFOLIO PROJECTS
 1. [Budget Analysis](https://github.com/Joecamp1/Budget-Analysis)
