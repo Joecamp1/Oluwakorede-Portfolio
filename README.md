@@ -10,7 +10,7 @@ WELCOME
 2. [Sales Analysis] (...)
 
 ## 📜 CERTIFICATION
-- [GOOGLE DATA ANALYSIS CERTIFICATE] (...)
+- [GOOGLE DATA ANALYSIS CERTIFICATE](https://coursera.org/share/f0c86970a8290e35e73922a6886556a8)
 - [CWW TECH AFRICA](https://drive.google.com/file/d/1YQoBOw0FJTsmuRhN4vkSwfHAcUZZMBS-/view)
 
 ## 📫 CONTACT
