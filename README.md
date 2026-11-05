@@ -7,7 +7,7 @@ WELCOME
 
 ## 📊 PORTFOLIO PROJECTS
 1. [Budget Analysis](https://github.com/Joecamp1/Budget-Analysis)
-2. [Sales Analysis] (...)
+2. [Sales Analysis](https://github.com/Joecamp1/Sales-Analysis)
 
 ## 📜 CERTIFICATION
 - [GOOGLE DATA ANALYSIS CERTIFICATE](https://coursera.org/share/f0c86970a8290e35e73922a6886556a8)
