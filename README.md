@@ -26,7 +26,7 @@ Headline results: $14.7M total revenue, 5,516 orders, about $2,672 average order
 
 ## 2. Budget Analysis
 
-Tools 
+Tools: 
 Power BI, DAX, Excel
 
 National Budget Visual
