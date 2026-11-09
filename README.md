@@ -7,11 +7,10 @@ WELCOME
 
 ## 📊 PORTFOLIO PROJECTS
 1. Sales Analysis
-
-## Tools: 
+Tools: 
 Power BI, DAX, Google Sheets
 
-## Sales Dashboard
+Sales Dashboard
 An interactive dashboard analysing 8,399 sales transactions (2014 to 2017). I combined four yearly CSV files into a single fact table and built a star schema with six dimension tables (date, product, customer, ship mode, order priority and salesperson).
 
 ## Business questions answered
