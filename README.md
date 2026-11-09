@@ -6,7 +6,7 @@ WELCOME
 > Here is my personal github profile to showcase my data analytics projects and tools I have worked with. Solving real problems with data analysis, data visualization and reporting/storytelling. Each one includes the business questions I set out to answer, how I built the solution, and the key findings.
 
 ## 📊 PORTFOLIO PROJECTS
-1. Sales Analysis
+## 1. Sales Analysis
 
 Tools: 
 Power BI, DAX, Google Sheets
@@ -24,7 +24,7 @@ Headline results: $14.7M total revenue, 5,516 orders, about $2,672 average order
 
 [Sales Analysis](https://github.com/Joecamp1/Sales-Analysis)
 
-2. Budget Analysis
+## 2. Budget Analysis
 
 Tools 
 Power BI, DAX, Excel
