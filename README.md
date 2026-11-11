@@ -47,7 +47,7 @@ A four-page Power BI report analysing the Nigerian federal budget by Ministries,
 - The Ministry of Finance holds the largest single allocation (about 18T, roughly 40% of the total), mostly in overhead.
 - Personnel costs dominate smaller bodies, at about 77% of the Presidency's allocation and about 71% of the Ministry of Defence's.
 
-[Sales Analysis](https://github.com/Joecamp1/Sales-Analysis)
+[Budget Analysis](https://github.com/Joecamp1/Sales-Analysis](https://github.com/Joecamp1/Budget-Analysis))
 
 ## 📜 CERTIFICATION
 - [GOOGLE DATA ANALYSIS CERTIFICATE](https://coursera.org/share/f0c86970a8290e35e73922a6886556a8)
