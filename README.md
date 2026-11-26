@@ -25,12 +25,12 @@ An interactive dashboard analysing 8,399 sales transactions (2014 to 2017). I co
 
 [Sales Analysis](https://github.com/Joecamp1/Sales-Analysis)
 
-## 2. Budget Analysis
+## 2. Nigeria National Budget Visual 2025
 
 **Tools:** 
 Power BI, DAX, Excel
 
-**Nigeria National Budget Visual 2025**
+**Budget Analysis**
 
 A four-page Power BI report analysing the Nigerian federal budget by Ministries, Departments and Agencies (MDAs). It covers a national overview plus deep dives into the Presidency, the Ministry of Defence and the Ministry of Finance, splitting allocation into Capital, Overhead and Personnel.
 
